@@ -1,0 +1,11 @@
+{
+  "name": "etaforge-driver-app-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ETAForge Emergency Ambulance Driver & Dispatch Portal",
+  "scripts": {
+    "dev": "npm --prefix ambulance-app run dev",
+    "build": "npm --prefix ambulance-app run build",
+    "preview": "npm --prefix ambulance-app run preview"
+  }
+}
